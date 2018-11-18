@@ -1,0 +1,21 @@
+{
+  "name": "servicemesh",
+  "version": "1.0.0",
+  "description": "demo implementation of service mesh",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "dgram",
+    "udp",
+    "discovery",
+    "mesh"
+  ],
+  "author": {
+    "name": "Alexandr Marchenko",
+    "email": "marchenko.alexandr@gmail.com",
+    "url": "https://mac-blog.org.ua"
+  },
+  "license": "MIT"
+}
